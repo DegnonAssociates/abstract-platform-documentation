@@ -1,0 +1,1 @@
+Allows admins to view and create custom reports, export them to excel and everything else you would expect from reports.

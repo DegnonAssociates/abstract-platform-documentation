@@ -1,0 +1,1 @@
+Users with the "Reviewer" role will be able to view abstracts assigned to them to review, and fill out a review for each. 

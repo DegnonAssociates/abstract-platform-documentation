@@ -1,0 +1,1 @@
+Work in progress, will allow users to create custom events that correspond to presentation sessions and assign abstracts to them.

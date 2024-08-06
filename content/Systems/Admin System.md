@@ -1,0 +1,1 @@
+This allows "Admin" users to edit overall system settings like open/close dates and general info about the meeting, as well as custom forms for users to fill out. 
