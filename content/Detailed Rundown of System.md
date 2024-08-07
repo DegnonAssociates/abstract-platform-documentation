@@ -1,4 +1,4 @@
-Go back: [[Degnon Abstract System]]
+Go back: [[content/index]]
 
 This page will mostly cover the structure of how the abstract system handles all of the different parts involved in a complete abstract system, as well as how those parts interact with each other and the users. This page may be helpful for admins who need clarification on a specific part during the setup of any part.
 ### Instances
