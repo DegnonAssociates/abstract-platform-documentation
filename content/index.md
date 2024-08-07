@@ -9,6 +9,8 @@ The abstract system is a tool that allows client teams to create a customized ab
 
 [[#Main Systems]]
 
+[[Initial Setup]]
+
 # Main Systems
 
 "Global Admin" users can view all systems.
