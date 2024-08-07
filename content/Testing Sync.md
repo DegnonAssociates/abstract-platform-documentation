@@ -1,1 +1,1 @@
-adding a note at 11:22am CST
+testing quartz sync
