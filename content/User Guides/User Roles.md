@@ -2,6 +2,8 @@ This guide will be split into groupings by user role. The roles are
 
 ### User
 
+The basic account type. Accounts are given this role on the first login, 
+
 ### Reviewer
 
 ### [[Admin - Home]]
