@@ -2,6 +2,7 @@ Here you will find all the links to the user guides for the Degnon Abstract Syst
 
 # General Guides
 [[Detailed Rundown of System]] - Covers application structure and key terms
+
 [[User Roles]] - Briefly covers types of user roles, what they mean, as well as how to edit them
 
 # Setup Guides
