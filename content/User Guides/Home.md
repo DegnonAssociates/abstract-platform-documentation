@@ -14,4 +14,6 @@ Here you will find all the links to the user guides for the Degnon Abstract Syst
 
 # System Section Guides
 
+[[content/User Guides/Admin/Submission System|Submission System]]- Documentation on submission of abstracts through the abstract app. Basic guide for abstract submitters
+
 [[Scheduler Module Notes|Scheduler Module]] - How to use the event session management tool, used for presentation sessions at the meeting
