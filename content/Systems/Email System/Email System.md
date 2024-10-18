@@ -10,4 +10,4 @@ This email is sent automatically upon final submission of an abstract to either 
 
 ### [[Custom Emails]]
 
-These allow admins to create a completely user-defined email. We will write how this works later
+These allow admins to create a completely user-defined email. In-depth instructions at the link

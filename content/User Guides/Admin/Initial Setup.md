@@ -59,3 +59,7 @@ The final step that must be completed before starting, is to navigate to the "Em
 - Once the default submission template is complete, the system should be able to open without issue
 
 Please ensure that a submission for each submission type is submitted as a test, and ensure that all content is correct and validation is working properly, and the system will be ready to open at the date specified
+
+## [[Custom Emails]]
+
+Allows creation of emails that are manually sent but will send to all submissions or reviewers that meet the chosen criteria of that email. Useful for reminders, acceptance notifications, and general communication
