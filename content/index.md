@@ -2,23 +2,23 @@
 title: Degnon Abstract System Documentation
 ---
 
-The abstract system is a tool that allows client teams to create a customized abstract system with limited involvement from IT, and for users to then submit their research abstracts for consideration.  It also contains reporting and emailing features, as well as a review system, plus more to come! Here, you will find breakdowns of each of the pages and features/functionality of each one.
+The abstract system is a tool that allows client teams to create a customized abstract system with limited involvement from IT, and for users to then submit their research abstracts for consideration. Review, reporting and email tools are also included to facilitate all aspects of the submission process.
 
+# [[content/User Guides/index|Setup Guides]]
+
+The setup section details all steps needed in order to get a system ready to launch for the first time, as well as guides to add and collect information later in the application process.
 
 [[Detailed Rundown of System]]
 
-[[#Main Systems]]
-
-[[Initial Setup]]
+Covers Structure of abstract system and can help clear up any confusion about terminology
 
 # Main Systems
 
-"Global Admin" users can view all systems.
-
-### [[Systems/Submission System]]
+### [[content/Systems/Submission System|Submission System]]
 
 This is where the users will submit their abstracts. It also is the default landing page after logging in.
 ### [[Review System]]
+
 
 Users with the "Reviewer" role will be able to view abstracts assigned to them to review, and fill out a review for each.
 ### [[Admin System]]

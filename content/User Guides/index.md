@@ -14,8 +14,8 @@ Here you will find all the links to the user guides for the Degnon Abstract Syst
 
 # System Section Guides
 
-[[content/User Guides/Submission System|Submission System]]- Documentation on submission of abstracts through the abstract app. Basic guide for abstract submitters
+[[Submission System Setup|Submission System]] - Documentation on submission of abstracts through the abstract app. Basic guide for abstract submitters
 
 [[Scheduler Module Notes|Scheduler Module]] - How to use the event session management tool, used for presentation sessions at the meeting
 
-[[Email System]] - Adding / Editing System Emails. Default submission notification required for all instances
+[[Email System]] - Adding / Editing System Emails. <span style="color:red">Default submission notification required for all instances</span>
