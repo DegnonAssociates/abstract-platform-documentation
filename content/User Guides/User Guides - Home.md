@@ -10,7 +10,7 @@ Here you will find all the links to the user guides for the Degnon Abstract Syst
 
 [[Initial Setup]] - For setting up a new abstract system (covers everything to set up a submission system)
 
-[[Review System Setup]] - Setting up review system
+[[Review System Setup]] - Setting up review system. Please read for instructions on setting up conflict of interest questions.
 
 # System Section Guides
 

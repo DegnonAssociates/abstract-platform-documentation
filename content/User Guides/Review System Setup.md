@@ -2,6 +2,10 @@ Similar to creating the initial submission system, a custom form is created for 
 ## Review Forms
 
 To edit the forms go to Admin->Review Setup->Add/Edit Review fields. The process of adding the questions can be found [[Initial Setup#Adding Questions|here]] and is the same as adding questions to a submission form. Each submission type has an individualized review form that must be created for it. Please view the Scoring section below for an important note about numerical scores in reviews.
+
+## Conflict of Interest Question
+
+Unique to review forms is the Conflict of Interest question that allows reviewers to mark abstracts that they don't feel comfortable reviewing. In order to accommodate that, we have provided a question type on the review setup form called "Conflict of Interest." Similar to radio buttons, checkboxes, and dropdowns, this question type contains "Options" fields in order to create the different selections in the form. For COI questions, there must be 2 options and the values must be "Yes" and "No". The labels can read anything and future versions of the app will enforce the Yes and No options when the question type is selected
 ### Scoring
 
 To add scores to the review forms, please use a radio button and for the options fields, include the possible scores as options, using the numerical value for the "Value" field (1,2,3,...) and then include whatever you want the reviewer to see for the "Label" field. This will allow you to write descriptive radio button labels, while also allowing the reports to use the numbers for score averaging and other important statistical calculations that will be useful when deciding on acceptances.

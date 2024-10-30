@@ -1,10 +1,9 @@
 ---
 title: Degnon Abstract System Documentation
 ---
-
 The abstract system is a tool that allows client teams to create a customized abstract system with limited involvement from IT, and for users to then submit their research abstracts for consideration. Review, reporting and email tools are also included to facilitate all aspects of the submission process.
 
-# [[content/User Guides/index|Setup Guides]]
+# [[User Guides - Home|Setup Guides]]
 
 The setup section details all steps needed in order to get a system ready to launch for the first time, as well as guides to add and collect information later in the application process.
 
